@@ -35,4 +35,4 @@ React JS
 
 Node JS
 
-SASS
+SCSS
