@@ -24,7 +24,7 @@ https://jikan.moe/
 I wanted to create a website that uses an API to use the data gained from it and apply through my own functions and display it on a website
 
 # Ideas/Unable to complete:
-I wanted to add a homepage that displays recommendations for anime to the user, but I was unsuccessful when it came to some styling problems that I came across as I ran out of time to complete.
+I wanted to add a homepage that displays recommendations for anime to the user, but I was unsuccessful when it came to some styling problems that I came across.
 
 I also wanted to add Redux to help expand the other functions.
 
